@@ -28,7 +28,6 @@ fast-learning-tasks/
    - Objetivo: entender o comportamento de consumo (horários, duração, categorias) e possíveis perfis de usuário.
    - Técnicas: EDA, visualizações e experimentos simples de modelagem.
 
-> **Observação:** Os títulos acima refletem o escopo dos arquivos e cabeçalhos do notebook. Ajuste a descrição conforme os resultados obtidos na sua análise.
 
 ## Tecnologias
 - Python — matplotlib, pandas, seaborn
@@ -47,7 +46,7 @@ fast-learning-tasks/
    ou, no Google Colab, faça upload do notebook e dos CSVs.
 
 ## Resultados e Insights
-Os resultados (gráficos, tabelas e métricas) estão documentados ao longo do notebook, com comentários em Markdown detalhando as decisões e interpretações.
+Os resultados (gráficos, tabelas e métricas) estão documentados ao longo do notebook.
 
 ---
 Desenvolvido por **Sophia Sousa Viana** — [GitHub](https://github.com/SophiaSousaViana) · [LinkedIn](https://www.linkedin.com/in/sophia-sousa-viana-49385b29b/)
